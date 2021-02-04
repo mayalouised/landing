@@ -27,5 +27,6 @@
   border-radius: 50px;
   color: black;
   box-shadow: 0 0 10px rgb(255 237 61 / 90%);
+  cursor: crosshair;
 }
 
